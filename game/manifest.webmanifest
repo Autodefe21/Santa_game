@@ -1,0 +1,12 @@
+{
+  "name": "RedFox_Santa",
+  "short_name": "RedFox_Santa",
+  "id": "com.example.platformer",
+  "description": "Бонусный код: SK5437654987",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
